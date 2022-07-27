@@ -19,6 +19,7 @@
 ### Skills Gained from this
 
 - Learned about CSS Positioning, Relative, Absolute. Also  how to use negative values to adjust the items as desired`.
+- Learned about linear-gradient and how it can only be applied to background property and not backround-color.
 
 ### Screenshot
 
