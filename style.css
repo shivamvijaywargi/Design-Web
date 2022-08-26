@@ -105,3 +105,25 @@ nav img {
   margin-top: 4rem;
   font-weight: bold;
 }
+
+@media (max-width: 1124px) {
+  .intro-img {
+    left: -36rem;
+  }
+
+  .backcover-img {
+    top: -19rem;
+    right: -14rem;
+  }
+}
+
+@media (max-width: 906px) {
+  .intro-img {
+    left: -30rem;
+    top: 8rem;
+  }
+
+  .backcover-img {
+    top: -4rem;
+  }
+}
